@@ -1,2 +1,2 @@
-# 這個檔案告訴 Render 怎麼啟動你的網站
-web: gunicorn app:app
+flask==3.0.3
+gunicorn==22.0.0
